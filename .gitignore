@@ -1,0 +1,12 @@
+node_modules/
+dist/
+dist-shared/
+downloads/
+*.tsbuildinfo
+*.qoder.site
+.qoder/
+.env
+.env.*
+*.log
+tests/fixtures/
+tests/screenshots/
